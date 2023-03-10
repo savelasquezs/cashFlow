@@ -16,7 +16,7 @@
 </template>
 
 <script setup>
-import Graphic from "@/Resume/Graphic.vue";
+import Graphic from "@/components/Resume/Graphic.vue";
 
 import Layout from "./Layout.vue";
 import Header from "./Header.vue";
